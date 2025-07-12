@@ -19,7 +19,7 @@ from fastmcp.exceptions import FastMCPError
 
 # --- 配置 ---
 # 请将这里替换为您的 MCP Server 的基础 URL
-MCP_SERVER_BASE_URL = "https://example.com/mcp"
+MCP_SERVER_BASE_URL = "https://openapi-mcp.cn-hangzhou.aliyuncs.com/accounts/1840724847576507/custom/yingxi-test/id/21HFYMWbiIH1zuTx/mcp"
 
 # 本地回调服务器配置
 REDIRECT_HOST = "127.0.0.1"
